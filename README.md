@@ -1,0 +1,1 @@
+This Python code implements a deep learning model for sentiment analysis using LSTM (Long Short-Term Memory) on the IMDb movie review dataset. The model is trained to predict whether a movie review is positive or negative. It provides usage instructions for training and evaluating the model and lists the required dependencies.
